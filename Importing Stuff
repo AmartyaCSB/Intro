@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorldJava {
+public class Import {
 	public static void main(String[] args) {
 		int n;
 		Scanner ob = new Scanner(System.in);
