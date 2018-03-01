@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class HelloWorldJava {
+	public static void main(String[] args) {
+		int n;
+		Scanner ob = new Scanner(System.in);
+		System.out.println("Enter no");
+		n = ob.nextInt();
+		System.out.println(n);
